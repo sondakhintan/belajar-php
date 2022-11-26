@@ -55,5 +55,6 @@ if (isset($_POST["submit"])){
         Tanggal Lahir (yyyy-mm-dd): <input type="text" name="tgl_lahir"><br>
         Alamat: <input type="text" name="alamat"><br>
         <button type="submit" name="submit">Tambah Data</button>
+    </form>
 </body>
 </html>
